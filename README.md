@@ -1,6 +1,6 @@
-<h1> Algorithm Project <h1>
+<h1> Algorithm Project <span style="font-size:18px;">City tour navigation <span><h1>
 
-<h3> City tour navigation <h3>
+
   
 
 1. 프로젝트 개요
