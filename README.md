@@ -1,7 +1,6 @@
-<h1> Algorithm Project <span style="font-size:10px;">City tour navigation <span><h1>
+# Algorithm_Project_2019
 
-
-<h5> 1. 프로젝트 개요
+1. 프로젝트 개요
 
   1.1 프로젝트명 및 기간
   
@@ -12,6 +11,7 @@
   
    - 논산 주변 10개 도시 ( 논산, 강경, 계룡, 공주, 부여, 대전, 천안, 전주, 대천, 부안 )에
    대한 종합적인 교통 및 관광 안내를 하는 “City Navigator” 제작.
+
 
 
   1.3 구현 알고리즘
