@@ -1,9 +1,7 @@
-<h1> Algorithm Project <span style="font-size:18px;">City tour navigation <span><h1>
+<h1> Algorithm Project <span style="font-size:10px;">City tour navigation <span><h1>
 
 
-  
-
-1. 프로젝트 개요
+<h5> 1. 프로젝트 개요
 
   1.1 프로젝트명 및 기간
   
