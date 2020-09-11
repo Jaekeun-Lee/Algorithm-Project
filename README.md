@@ -29,4 +29,11 @@
   
    -Text Matching Algorithm
    
-   -A* Algorithm
+   -A* Algorithm<br/><br/>
+
+
+![1](https://user-images.githubusercontent.com/64590527/92943530-da677200-f48d-11ea-83d4-72914ef0938b.jpg)
+
+![2](https://user-images.githubusercontent.com/64590527/92943528-d9cedb80-f48d-11ea-82e0-c39dbd3c5660.jpg)
+
+![3](https://user-images.githubusercontent.com/64590527/92943525-d89dae80-f48d-11ea-9585-b3c4dbd47d69.jpg)
